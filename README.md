@@ -1,0 +1,1 @@
+This repository contains my work for Module 9, which focuses on analyzing sales data using pandas and numpy. The file included is module09-assignment.py, and I practiced data filtering, aggregation, and generating business insights.
